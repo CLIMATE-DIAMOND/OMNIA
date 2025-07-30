@@ -1,0 +1,9 @@
+numericalemphasis=1
+lpmethod 4
+barorder 0
+iis 0
+scaind 0
+rerun yes
+THREADS 7
+names no
+solutiontype 2

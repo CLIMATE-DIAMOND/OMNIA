@@ -1,0 +1,56 @@
+[
+  {
+    "SavedGroupId": 34,
+    "GroupName": "AllRegion",
+    "GroupType": "Region",
+    "Settings": "[\"AFE\", \"AFN\", \"AFW\", \"AFZ\", \"ANZ\", \"ASC\", \"ASE\", \"ASO\", \"BRA\", \"CAN\", \"CHL\", \"CHN\", \"ENE\", \"ENW\", \"EUE\", \"EUM\", \"EUW\", \"IDN\", \"IND\", \"JPN\", \"LAM\", \"MDA\", \"MEA\", \"MEX\", \"NIG\", \"RUS\", \"SKT\", \"USA\"]",
+    "CreatedOn": "2025-07-14 09:21",
+    "DisplayCreatedOn": "2025-07-14 09:21",
+    "UserName": "e4sma-user"
+  },
+  {
+    "SavedGroupId": 36,
+    "GroupName": "AllRegion",
+    "GroupType": "Region",
+    "Settings": "[\"AFE\", \"AFN\", \"AFW\", \"AFZ\", \"ANZ\", \"ASC\", \"ASE\", \"ASO\", \"BRA\", \"CAN\", \"CHL\", \"CHN\", \"ENE\", \"ENW\", \"EUE\", \"EUM\", \"EUW\", \"IDN\", \"IND\", \"JPN\", \"LAM\", \"MDA\", \"MEA\", \"MEX\", \"NIG\", \"RUS\", \"SKT\", \"USA\"]",
+    "CreatedOn": "2025-04-29 12:36",
+    "DisplayCreatedOn": "2025-04-29 12:36",
+    "UserName": "e4sma-user2"
+  },
+  {
+    "SavedGroupId": 33,
+    "GroupName": "AllScenario",
+    "GroupType": "Scenario",
+    "Settings": "[{\"Name\": \"BASE\", \"Checked\": true, \"RowOrder\": 0, \"ShortName\": \"B\"}, {\"Name\": \"GHG_Absorption\", \"Checked\": true, \"RowOrder\": 1, \"ShortName\": \"SR\"}, {\"Name\": \"PWR_Batteries\", \"Checked\": true, \"RowOrder\": 2, \"ShortName\": \"SR\"}, {\"Name\": \"TechBIO\", \"Checked\": true, \"RowOrder\": 3, \"ShortName\": \"SR\"}, {\"Name\": \"TechHH2\", \"Checked\": true, \"RowOrder\": 4, \"ShortName\": \"SR\"}, {\"Name\": \"TechUPS\", \"Checked\": true, \"RowOrder\": 5, \"ShortName\": \"SR\"}, {\"Name\": \"SysSettings\", \"Checked\": true, \"RowOrder\": 6, \"ShortName\": \"SS\"}, {\"Name\": \"TRADEPARAM\", \"Checked\": true, \"RowOrder\": 7, \"ShortName\": \"TS\"}, {\"Name\": \"00_DataByTimeslice_20\", \"Checked\": true, \"RowOrder\": 8, \"ShortName\": \"RS\"}, {\"Name\": \"00_GHG_EmiFact\", \"Checked\": true, \"RowOrder\": 9, \"ShortName\": \"RS\"}, {\"Name\": \"00_PWR_CAP-Reserve\", \"Checked\": true, \"RowOrder\": 10, \"ShortName\": \"RS\"}, {\"Name\": \"00_PWR_CAP_Retirement\", \"Checked\": true, \"RowOrder\": 11, \"ShortName\": \"RS\"}, {\"Name\": \"00_Potentials\", \"Checked\": true, \"RowOrder\": 13, \"ShortName\": \"RS\"}, {\"Name\": \"01_DemandProjections_SSP2\", \"Checked\": true, \"RowOrder\": 14, \"ShortName\": \"RS\"}, {\"Name\": \"01_IND_IIS_AL_CM_INF_Setup\", \"Checked\": true, \"RowOrder\": 15, \"ShortName\": \"RS\"}, {\"Name\": \"01_IND_Setup\", \"Checked\": true, \"RowOrder\": 17, \"ShortName\": \"RS\"}, {\"Name\": \"01_PWR_Setup\", \"Checked\": true, \"RowOrder\": 18, \"ShortName\": \"RS\"}, {\"Name\": \"01_RES_COM_Setup\", \"Checked\": true, \"RowOrder\": 19, \"ShortName\": \"RS\"}, {\"Name\": \"01_TRA_Setup\", \"Checked\": true, \"RowOrder\": 20, \"ShortName\": \"RS\"}]",
+    "CreatedOn": "2025-07-30 14:51",
+    "DisplayCreatedOn": "2025-07-30 14:51",
+    "UserName": "e4sma-user"
+  },
+  {
+    "SavedGroupId": 37,
+    "GroupName": "AllScenario",
+    "GroupType": "Scenario",
+    "Settings": "[{\"Name\": \"BASE\", \"Checked\": true, \"RowOrder\": 1, \"ShortName\": \"B\", \"FileStatus\": \"Consistent\", \"RecordCount\": 334351}, {\"Name\": \"GHG_Absorption\", \"Checked\": true, \"RowOrder\": 2, \"ShortName\": \"SR\", \"FileStatus\": \"Consistent\", \"RecordCount\": 1512}, {\"Name\": \"PWR_Batteries\", \"Checked\": true, \"RowOrder\": 3, \"ShortName\": \"SR\", \"FileStatus\": \"Consistent\", \"RecordCount\": 6972}, {\"Name\": \"TechBIO\", \"Checked\": true, \"RowOrder\": 4, \"ShortName\": \"SR\", \"FileStatus\": \"Consistent\", \"RecordCount\": 5376}, {\"Name\": \"TechHH2\", \"Checked\": true, \"RowOrder\": 5, \"ShortName\": \"SR\", \"FileStatus\": \"Consistent\", \"RecordCount\": 13580}, {\"Name\": \"TechUPS\", \"Checked\": true, \"RowOrder\": 6, \"ShortName\": \"SR\", \"FileStatus\": \"Consistent\", \"RecordCount\": 1316}, {\"Name\": \"SysSettings\", \"Checked\": true, \"RowOrder\": 7, \"ShortName\": \"SS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 70486}, {\"Name\": \"TRADEPARAM\", \"Checked\": true, \"RowOrder\": 8, \"ShortName\": \"TS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 44100}, {\"Name\": \"00_DataByTimeslice_20\", \"Checked\": true, \"RowOrder\": 9, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 39460}, {\"Name\": \"00_GHG_EmiFact\", \"Checked\": true, \"RowOrder\": 10, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 91804}, {\"Name\": \"00_PWR_CAP-Reserve\", \"Checked\": true, \"RowOrder\": 11, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 1540}, {\"Name\": \"00_PWR_CAP_Retirement_OMNIA\", \"Checked\": true, \"RowOrder\": 12, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 12418}, {\"Name\": \"00_Potentials\", \"Checked\": true, \"RowOrder\": 13, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 1484}, {\"Name\": \"01_DemandProjections_SSP2\", \"Checked\": true, \"RowOrder\": 14, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 14784}, {\"Name\": \"01_PriceProj_WEO22_SP\", \"Checked\": true, \"RowOrder\": 15, \"ShortName\": \"RS\", \"FileStatus\": \"Consistent\", \"RecordCount\": 2688}]",
+    "CreatedOn": "2025-04-29 12:36",
+    "DisplayCreatedOn": "2025-04-29 12:36",
+    "UserName": "e4sma-user2"
+  },
+  {
+    "SavedGroupId": 35,
+    "GroupName": "DefaultProperties",
+    "GroupType": "Properties",
+    "Settings": "{\"OptCa\": null, \"OptCr\": null, \"Damage\": 2, \"LimCol\": 0, \"LimRow\": 0, \"Oblong\": true, \"ResLim\": 50000, \"Retire\": false, \"IterLim\": 999999, \"SolPrint\": false, \"Uncertainty\": 0, \"RunInStepsOf\": 0, \"ClimateModule\": false, \"LinearVarCost\": true, \"LevelizedCosts\": 3, \"GamsOptionBratio\": \"\", \"DiscreteInvestment\": false, \"DoExtendedQaChecks\": false, \"GeneralEquilibrium\": 3, \"MidYearDiscounting\": true, \"ObjFunctionVariant\": 0, \"ShiftDiscountingBy\": 0, \"Co2CalibrationAtBoh\": false, \"UseSlackVariablesInUc\": false, \"DiscreteUnitCommitment\": false, \"EndoGenousTechLearning\": false, \"WriteBPriceforElastDem\": false, \"SaveSolutionInformation\": false, \"TsForFlowReportingTypes\": 0, \"UseLastRunAsStartingPoint\": false, \"ActivateSensitivityAnalysis\": false}",
+    "CreatedOn": "2025-07-14 09:21",
+    "DisplayCreatedOn": "2025-07-14 09:21",
+    "UserName": "e4sma-user"
+  },
+  {
+    "SavedGroupId": 38,
+    "GroupName": "DefaultProperties",
+    "GroupType": "Properties",
+    "Settings": "{\"OptCa\": null, \"OptCr\": null, \"Damage\": 2, \"LimCol\": 0, \"LimRow\": 0, \"Oblong\": true, \"ResLim\": 50000, \"Retire\": false, \"IterLim\": 999999, \"SolPrint\": false, \"Uncertainty\": 0, \"RunInStepsOf\": 0, \"ClimateModule\": false, \"LinearVarCost\": true, \"LevelizedCosts\": 3, \"GamsOptionBratio\": \"\", \"DiscreteInvestment\": false, \"DoExtendedQaChecks\": false, \"GeneralEquilibrium\": 3, \"MidYearDiscounting\": true, \"ObjFunctionVariant\": 0, \"ShiftDiscountingBy\": 0, \"Co2CalibrationAtBoh\": false, \"UseSlackVariablesInUc\": false, \"DiscreteUnitCommitment\": false, \"EndoGenousTechLearning\": false, \"WriteBPriceforElastDem\": false, \"SaveSolutionInformation\": false, \"TsForFlowReportingTypes\": 0, \"UseLastRunAsStartingPoint\": false, \"ActivateSensitivityAnalysis\": false}",
+    "CreatedOn": "2025-04-29 12:36",
+    "DisplayCreatedOn": "2025-04-29 12:36",
+    "UserName": "e4sma-user2"
+  }
+]

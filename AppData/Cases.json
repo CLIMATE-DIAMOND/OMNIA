@@ -1,0 +1,56 @@
+[
+  {
+    "CaseId": 16,
+    "CreatedOn": "2025-07-03 14:09",
+    "Description": "",
+    "EditedOn": "2025-07-03 14:44",
+    "EndingYear": "2050",
+    "FixResultFileName": "False",
+    "FixResultInfo": {
+      "WorkTimesFolderPath": null,
+      "GdxElasticDermands": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false
+      },
+      "GdxIre": {
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "GdxUseSolution": {
+        "FixYearsUpto": "",
+        "GdxSelectedFile": {
+          "FileName": "",
+          "FilePath": "",
+          "IsSelected": false
+        },
+        "IsApplied": false,
+        "RadioSelection": 1
+      },
+      "IsApplyFixResult": false
+    },
+    "GAMSSourceFolder": "GAMS_SrcTIMES.v4.8.7",
+    "Name": "ScenarioTest_2050",
+    "ParametricGroup": null,
+    "ParametricGroupId": null,
+    "PeriodsDefinition": "omnia-test",
+    "PropertiesGroup": "DefaultProperties",
+    "PropertiesGroupId": 19,
+    "RegionGroup": "AllRegion",
+    "RegionGroupId": 18,
+    "ScenarioGroup": "AllScenario",
+    "ScenarioGroupId": 17,
+    "Solver": "cplex",
+    "SolverOptionFile": "OMNIA_Nco_jp",
+    "UserName": "e4sma-user",
+    "ModelFramework": "Times"
+  }
+]
