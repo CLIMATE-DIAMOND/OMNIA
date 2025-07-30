@@ -35,6 +35,7 @@ Tommaso Pillon
 
 ESMIA
 Marie Pied
+Kathleen Vaillancourt
 
 UCL
 James Price
