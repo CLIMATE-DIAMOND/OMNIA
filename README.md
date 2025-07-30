@@ -27,30 +27,30 @@ This model has been built to better inform increased global mitigation ambition 
 Original developers: 
 
 E4SMA s.r.l
-Alessandro Chiodi
-Alessia Elia (alessia.elia@e4sma.com)
-Maurizio Gargiulo
-Sonja Sechi
-Tommaso Pillon
+Alessandro Chiodi,
+Alessia Elia, 
+Maurizio Gargiulo,
+Tommaso Pillon,
+Sonja Sechi.
 
 ESMIA
-Marie Pied
-Kathleen Vaillancourt
+Marie Pied,
+Kathleen Vaillancourt.
 
 UCL
-James Price
-Steve Pye
-Dan Zhang
-Alvaro Calzadilla Rivera
-Lubello Pietro
-Serguey Maximov Gajardo 
+James Price,
+Steve Pye,
+Dan Zhang,
+Alvaro Calzadilla Rivera,
+Lubello Pietro,
+Serguey Maximov Gajardo. 
 
 IMPERIAL
-Adam Hawkes
-Maro Malliaroudaki 
+Adam Hawkes,
+Maro Malliaroudaki. 
 
 CICERO
-Shivika Mittal
+Shivika Mittal.
 
 ---
 
