@@ -1,8 +1,10 @@
 # OMNIA
-This repository contains the OMNIA model development work carried out under the Horizon-DIAMOND project.
-This folder contains the model, data files and associated scripts that are used for setting up OMNIA model. please refer to the individual folders for the respective contents.
+This repository contains the OMNIA model, OMNIA model, an open-source, global energy system model covering energy systems dynamics for 28 regions. The model development has been developed under the Horizon-DIAMOND project.
 
-This is a work in Progress. The draft version will be ready by July 2025 and the final version by July 2026.
+This folder contains the model, data files and associated scripts that are used for setting up OMNIA model. please refer to the individual folders for the respective contents.
+This is a work in Progress. The first release will be ready by July 2025 and the final version by July 2026.
+
+Zenodo link to OMNIA first release: https://zenodo.org/records/16632818 
 
 # Documentation
 More information can be found under "Documentation" Folder
