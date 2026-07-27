@@ -24,31 +24,31 @@ This model has been built to better inform increased global mitigation ambition 
 ## Acknowledgements  
 Original developers: 
 
-E4SMA s.r.l
-Alessandro Chiodi
-Alessia Elia (alessia.elia@e4sma.com)
-Maurizio Gargiulo
-Sonja Sechi
-Tommaso Pillon
+**E4SMA s.r.l**
+Alessandro Chiodi,
+Alessia Elia (alessia.elia@e4sma.com),
+Maurizio Gargiulo,
+Sonja Sechi,
+Tommaso Pillon,
 
-ESMIA
-Marie Pied
-Kathleen Vaillancourt
+**ESMIA**
+Marie Pied,
+Kathleen Vaillancourt,
 
-UCL
-James Price
-Steve Pye
-Dan Zhang
-Alvaro Calzadilla Rivera
-Lubello Pietro
-Serguey Maximov Gajardo 
+**UCL**
+James Price,
+Steve Pye,
+Dan Zhang,
+Alvaro Calzadilla Rivera,
+Lubello Pietro,
+Serguey Maximov Gajardo,
 
-IMPERIAL
-Adam Hawkes
-Maro Malliaroudaki 
-Alaa Al Khourdajie
+**IMPERIAL**
+Adam Hawkes,
+Maro Malliaroudaki ,
+Alaa Al Khourdajie,
 
-CICERO
+**CICERO**
 Shivika Mittal
 
 ---
