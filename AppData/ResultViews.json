@@ -1,1 +1,83 @@
-[{"Description":"","EditedOn":"2025-04-30 08:30","LastAccessed":"2025-04-30 08:30","Filter":"{\"process\":[\"IMPDEMZ\",\"IMPMATZ\",\"IMPNRGZ\"],\"attribute\":[\"VAR_FIn\",\"VAR_FOut\"]}","Name":"Dummy_check","UserName":"e4sma-user2"}]
+[
+  {
+    "Settings": {},
+    "Description": "",
+    "EditedOn": "2026-02-12 10:46",
+    "LastAccessed": "2026-04-03 14:29",
+    "Filter": "{\"attribute\":[\"VAR_FOut\"],\"commodity\":[\"ELCC\",\"ELCD\"],\"processset\":[\"P_BGS\",\"P_BGS-CCS\",\"P_BIO\",\"P_BIO-CCS\",\"P_BLQ\",\"P_COA\",\"P_COA-CCS\",\"P_GAS\",\"P_GAS-CCS\",\"P_GEO\",\"P_HYD\",\"P_NUC\",\"P_OCE\",\"P_OIL\",\"P_SOL-CSP\",\"P_SOL-PV\",\"P_WAS\",\"P_WIN-OF\",\"P_WIN-ON\"]}",
+    "Name": "Electricity_generation_by_type",
+    "UserName": "e4sma-user2"
+  },
+  {
+    "Settings": {},
+    "Description": "",
+    "EditedOn": "2026-02-12 10:45",
+    "LastAccessed": "2026-04-03 14:19",
+    "Filter": "{\"attribute\":[\"VAR_Cap\"],\"processset\":[\"P_BGS\",\"P_BGS-CCS\",\"P_BIO\",\"P_BIO-CCS\",\"P_BLQ\",\"P_COA\",\"P_COA-CCS\",\"P_GAS\",\"P_GAS-CCS\",\"P_GEO\",\"P_HYD\",\"P_NUC\",\"P_OCE\",\"P_OIL\",\"P_SOL-CSP\",\"P_SOL-PV\",\"P_WIN-OF\",\"P_WIN-ON\"]}",
+    "Name": "Power_capacities",
+    "UserName": "e4sma-user2"
+  },
+  {
+    "Settings": {},
+    "Description": "",
+    "EditedOn": "2026-02-27 11:19",
+    "LastAccessed": "2026-04-03 13:03",
+    "Filter": "{\"attribute\":[\"VAR_FOut\"],\"commodity\":[\"AGRCO2e\",\"INDCO2c\",\"INDCO2e\",\"INDCO2p\",\"PWRCO2e\",\"RSDCO2e\",\"SRVCO2e\",\"TRACO2e\",\"UPSCO2Fe\",\"UPSCO2Pe\",\"UPSCO2Ve\",\"UPSCO2e\"]}",
+    "Name": "CO2e_emissions",
+    "UserName": "e4sma-user2"
+  },
+  {
+    "Settings": {},
+    "Description": "",
+    "EditedOn": "2026-02-18 13:18",
+    "LastAccessed": "2026-04-03 12:22",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"commodity\":[\"INDBFG\",\"INDBGS\",\"INDBIO\",\"INDBLQ\",\"INDCOA\",\"INDCOG\",\"INDCOK\",\"INDCSP\",\"INDDSL\",\"INDEFUD\",\"INDEFUM\",\"INDELC\",\"INDGAS\",\"INDGEO\",\"INDGSL\",\"INDH2B\",\"INDH2G\",\"INDHET\",\"INDKER\",\"INDLPG\",\"INDOIL\",\"INDSOL\",\"INDWAS\"],\"processset\":[\"I-AL\",\"I-CH\",\"I-CM\",\"I-IS\",\"I-NF\",\"I-NM\",\"I-OI\",\"I-OTH\",\"I-PP\",\"I-WP\"]}",
+    "Name": "Industry_FEC",
+    "UserName": "e4sma-user2"
+  },
+  {
+    "Settings": {},
+    "Description": "",
+    "EditedOn": "2026-02-10 09:55",
+    "LastAccessed": "2026-04-03 11:19",
+    "Filter": "{\"process\":[\"IMPDEMZ\",\"IMPMATZ\",\"IMPNRGZ\"],\"attribute\":[\"VAR_FIn\",\"VAR_FOut\"]}",
+    "Name": "Dummy_check",
+    "UserName": "shivikamittal"
+  },
+  {
+    "Settings": {},
+    "Description": "",
+    "EditedOn": "2026-02-18 13:15",
+    "LastAccessed": "2026-04-02 12:31",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"S-AC\",\"S-CK\",\"S-EAP\",\"S-LIG\",\"S-OTH\",\"S-SLIG\",\"S-TH\"]}",
+    "Name": "Service_FEC",
+    "UserName": "e4sma-user2"
+  },
+  {
+    "Settings": {},
+    "Description": "",
+    "EditedOn": "2026-02-18 13:16",
+    "LastAccessed": "2026-04-02 12:30",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"T-AVB\",\"T-AVD\",\"T-BUS\",\"T-CAR\",\"T-HDT\",\"T-LCV\",\"T-MDT\",\"T-MOT\",\"T-NAB\",\"T-NAD\",\"T-RAI\"]}",
+    "Name": "Transport_FEC",
+    "UserName": "e4sma-user2"
+  },
+  {
+    "Settings": {},
+    "Description": "",
+    "EditedOn": "2026-02-18 13:15",
+    "LastAccessed": "2026-04-01 11:45",
+    "Filter": "{\"attribute\":[\"VAR_FIn\"],\"processset\":[\"R-AC\",\"R-CK\",\"R-EAP\",\"R-LIG\",\"R-OTH\",\"R-THH\",\"R-THL\"]}",
+    "Name": "Residential_FEC",
+    "UserName": "e4sma-user2"
+  },
+  {
+    "Settings": {},
+    "Description": "",
+    "EditedOn": "2026-02-10 09:55",
+    "LastAccessed": "2026-02-10 09:55",
+    "Filter": "{\"scenario\":[\"scenariotest_2050\"],\"attribute\":[\"VAR_FOut\"],\"commodity\":[\"PWRN2O\"]}",
+    "Name": "power sector n20",
+    "UserName": "shivikamittal"
+  }
+]

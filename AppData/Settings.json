@@ -1,1 +1,38 @@
-{"InitialSetupComplete":true,"VRQSettings":{"ExpectedMemory":"4","MaxHitWaitTime":"2","Model":"OMNIA-E4SMA","Priority":"10"},"GAMSFoldersListAndDefaults":{"PathGAMSRoot":"D:\\Veda","WorkTimes":"GAMS_WrkE4SMA-User2","SourceTimes":"GAMS_SrcTIMES.v4.8.6","ListOfSourceTimesFolder":["GAMS_SrcTIMES.v4.8.6"],"ListOfWorkTimesFolder":["Gams_WrkChiodi","GAMS_WrkE4SMA-User","GAMS_WrkE4SMA-User2","GAMS_WrkGargiulo"]},"RmFormSettings":{"IsDDWritingOnly":false,"IsRestartOption":false,"IsVRQ":false,"MaxRun":"8","Solver":"CPLEX","SolverOption":"BS224-7_nco","StudyName":"OMNIA_runs","IsGamsEngine":false,"RemoveVdFiles":false,"DoNotCreateCaseZipFile":true,"GenerateJacobian":false},"RmCaseZipFilesStorage":{"CaseZipFilesRootPath":"D:\\Veda\\Veda_case_zip_files"}}
+{
+  "InitialSetupComplete": true,
+  "VRQSettings": {
+    "ExpectedMemory": "4",
+    "MaxHitWaitTime": "2",
+    "Model": "OMNIA-E4SMA",
+    "Priority": "10"
+  },
+  "GAMSFoldersListAndDefaults": {
+    "PathGAMSRoot": "D:\\Veda",
+    "WorkTimes": "Gams_WrkE4SMA-User",
+    "SourceTimes": "GAMS_SrcTIMES.v4.9.1",
+    "ListOfSourceTimesFolder": [
+      "GAMS_SrcTIMES.v4.9.1"
+    ],
+    "ListOfWorkTimesFolder": [
+      "Gams_WrkChiodi",
+      "Gams_WrkE4SMA-User",
+      "Gams_WrkE4SMA-User2",
+      "Gams_WrkGargiulo"
+    ]
+  },
+  "RmFormSettings": {
+    "IsDDWritingOnly": false,
+    "IsRestartOption": false,
+    "MaxRun": "3",
+    "Solver": "CPLEX",
+    "SolverOption": "BS224-7_nco",
+    "StudyName": "OMNIA_runs",
+    "IsGamsEngine": false,
+    "RemoveVdFiles": false,
+    "DoNotCreateCaseZipFile": true,
+    "GenerateJacobian": false
+  },
+  "RmCaseZipFilesStorage": {
+    "CaseZipFilesRootPath": "D:\\Veda\\Veda_case_zip_files"
+  }
+}

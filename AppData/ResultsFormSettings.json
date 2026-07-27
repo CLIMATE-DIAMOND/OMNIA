@@ -1,1 +1,67 @@
-{"ApplicationVersion":"4.0.1.0","UserName":"e4sma-user2","Date":"2025-04-30 14:37","FormSettings":{"DimensionsWithColumnsInfo":{"period":{"Name":210,"Select":20},"region":{"Name":173,"Select":20},"process":{"Name":117,"Select":20,"Description":65},"vintage":{"Name":219,"Select":20},"scenario":{"Name":190,"Select":20},"attribute":{"Name":99,"Select":20,"Description":83},"commodity":{"Name":115,"Select":20,"Description":84},"studyname":{"Name":252,"Select":20},"timeslice":{"Name":179,"Select":20},"processset":{"Name":115,"Select":20,"Description":84},"commodityset":{"Name":109,"Select":20,"Description":94},"userconstraint":{"Name":99,"Select":20,"Description":83}}}}
+{
+  "ApplicationVersion": "4.2.1.0",
+  "UserName": "e4sma-user2",
+  "Date": "2026-04-03 17:01",
+  "FormSettings": {
+    "DimensionsWithColumnsInfo": {
+      "scen_model_framework": {
+        "Select": 20,
+        "Name": 254
+      },
+      "processset": {
+        "Select": 20,
+        "Name": 105,
+        "Description": 75
+      },
+      "period": {
+        "Select": 20,
+        "Name": 210
+      },
+      "studyname": {
+        "Select": 20,
+        "Name": 199
+      },
+      "vintage": {
+        "Select": 20,
+        "Name": 183
+      },
+      "commodityset": {
+        "Select": 20,
+        "Name": 99,
+        "Description": 85
+      },
+      "userconstraint": {
+        "Select": 20,
+        "Name": 92,
+        "Description": 92
+      },
+      "process": {
+        "Select": 20,
+        "Name": 118,
+        "Description": 66
+      },
+      "commodity": {
+        "Select": 20,
+        "Name": 73,
+        "Description": 107
+      },
+      "timeslice": {
+        "Select": 20,
+        "Name": 183
+      },
+      "region": {
+        "Select": 20,
+        "Name": 179
+      },
+      "attribute": {
+        "Select": 20,
+        "Name": 100,
+        "Description": 83
+      },
+      "scenario": {
+        "Select": 20,
+        "Name": 179
+      }
+    }
+  }
+}

@@ -1,1 +1,13 @@
-{"IsNRGChecked":true,"IsMATChecked":true,"IsDEMChecked":true,"IsUserConstraintChecked":true,"ThreadCount":-1,"IsFillRCompareChecked":true}
+{
+  "ApplicationVersion": "4.1.1.1",
+  "UserName": "shivikamittal",
+  "Date": "2026-01-13 17:43",
+  "FormSettings": {
+    "IsNRGChecked": true,
+    "IsMATChecked": true,
+    "IsDEMChecked": true,
+    "IsUserConstraintChecked": true,
+    "ThreadCount": -1,
+    "IsFillRCompareChecked": true
+  }
+}
