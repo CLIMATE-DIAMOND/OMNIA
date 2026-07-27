@@ -5,8 +5,6 @@ This folder contains the model, data files and associated templates that are use
 
 This model version has been released in July 2026.
 
-# Documentation
-More information can be found under "Documentation" Folder
 ---
 
 # Contributors
@@ -57,6 +55,12 @@ Shivika Mittal
 
 ## License  
 OMNIA is released under a Creative Commons Attribution-NonCommercial-Share Alike 4.0 International Public License (CC BY-NC-SA 4.0) https://creativecommons.org/licenses/by-nc-sa/4.0/ 
+
+## links
+Zenodo: https://doi.org/10.5281/zenodo.21626827
+For model information link to ReadTheDoc: 
+
+Other information can be found under "Documentation" Folder in the repository
 
 
 
