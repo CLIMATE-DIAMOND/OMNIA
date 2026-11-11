@@ -58,7 +58,7 @@ OMNIA is released under a Creative Commons Attribution-NonCommercial-Share Alike
 
 ## links
 Zenodo: https://doi.org/10.5281/zenodo.21626827
-For model information link to ReadTheDoc: 
+For model information link to ReadTheDoc: https://omnia-documentation.readthedocs.io/en/latest/
 
 Other information can be found under "Documentation" Folder in the repository
 
